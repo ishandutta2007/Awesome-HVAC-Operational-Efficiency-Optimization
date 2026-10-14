@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-HVAC-Operational-Efficiency-Optimization/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-HVAC-Operational-Efficiency-Optimization?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-HVAC-Operational-Efficiency-Optimization/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-HVAC-Operational-Efficiency-Optimization?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-HVAC-Operational-Efficiency-Optimization/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-HVAC-Operational-Efficiency-Optimization?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-HVAC-Operational-Efficiency-Optimization/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-HVAC-Operational-Efficiency-Optimization" alt="GitHub Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-HVAC-Operational-Efficiency-Optimization/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-HVAC-Operational-Efficiency-Optimization" alt="License: MIT" /></a>
@@ -64,9 +64,9 @@ Below is a detailed comparison of market-leading enterprise SaaS and cloud platf
 
 ## 💻 Open-Source GitHub Projects
 
-Explore open-source building simulation engines, autonomous reinforcement learning controllers, and production-grade Energy Management Systems (EMS). Ranked by GitHub stars (descending):
+Explore open-source building simulation engines, autonomous reinforcement learning controllers, and production-grade Energy Management Systems (EMS). Ranked by GitHub_Stars (descending):
 
-| Repository | Stars | License | Primary Focus & Domain |
+| Repository | GitHub_Stars | License | Primary Focus & Domain |
 |:---|:---:|:---:|:---|
 | **[pymodbus-dev/pymodbus](https://github.com/pymodbus-dev/pymodbus)** | <a href="https://github.com/pymodbus-dev/pymodbus/stargazers"><img src="https://img.shields.io/github/stars/pymodbus-dev/pymodbus?style=social&color=white" alt="Stars" /></a> | BSD-3-Clause | Python implementation of Modbus protocol stack (TCP/RTU/ASCII) for direct HVAC sensor/actuator fieldbus telemetry and hardware control. |
 | **[NREL/EnergyPlus](https://github.com/NREL/EnergyPlus)** | <a href="https://github.com/NREL/EnergyPlus/stargazers"><img src="https://img.shields.io/github/stars/NREL/EnergyPlus?style=social&color=white" alt="Stars" /></a> | Modified BSD | The world's flagship whole-building energy simulation engine for modeling heating, cooling, lighting, ventilation, and water heating energy flows. |
@@ -108,7 +108,7 @@ Contributions to this ecosystem are warmly welcomed! 🚀
 3. 📝 Update `README.md` with:
    - Platform / Repository Name and canonical URL.
    - Pricing tier and trial terms (for SaaS).
-   - GitHub stars badge linked to stargazers and license (for open-source).
+   - GitHub_Stars_Badge linked to stargazers and license (for open-source).
    - Concise summary of operational HVAC efficiency features.
 4. 🚀 Commit your improvements (`git commit -m "Add New HVAC Optimization Tool"`).
 5. 📬 Open a Pull Request detailing your additions.
